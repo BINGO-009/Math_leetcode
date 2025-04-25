@@ -7,7 +7,7 @@ class Solution {
             }
         }
 
-        // Step 2: Use two pointers to compare characters
+       
         int left = 0;
         int right = cleaned.length() - 1;
 
